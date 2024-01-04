@@ -13,6 +13,7 @@ To run the app locally, follow these steps:
 
 2. Open the project folder:
 
+   ```bash
    cd passenger-counter
 
 3. Open "index.html" in your preferred web browser.
